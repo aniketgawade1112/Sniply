@@ -8,7 +8,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Input } from "./input";
-import Error from "./error";
+import Error from "./Error";
 import * as Yup from "yup";
 import { Button } from "./button";
 import useFetch from "@/hooks/useFetch";
