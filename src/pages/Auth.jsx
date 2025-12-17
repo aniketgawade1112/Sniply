@@ -20,7 +20,7 @@ const Auth = () => {
 
   return (
     <div className="flex min-h-[calc(100vh-140px)] flex-col items-center justify-center px-4">
-      <div className="flex flex-col items-center gap-6 text-center">
+      <div className="flex flex-col items-center gap-6">
         <h1 className="text-balance text-3xl font-extrabold tracking-tight sm:text-4xl">
           {longLink ? (
             <>

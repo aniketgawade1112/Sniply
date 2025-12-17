@@ -69,7 +69,7 @@ const Login = () => {
 
   return (
     <Card className="w-full max-w-md border-slate-800 bg-slate-900/80 text-slate-100 shadow-xl shadow-slate-950/60">
-      <CardHeader className="space-y-2 pb-4">
+      <CardHeader className="space-y-2">
         <CardTitle className="text-xl font-bold tracking-tight">
           Welcome back
         </CardTitle>
